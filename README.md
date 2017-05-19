@@ -5,8 +5,11 @@ Our paper was published at AISTATS 2017, which you can find http://proceedings.m
 
 This code package consists of several folders
 (1) data: which contains Gowalla / lifescience datasets, which are from UCI data repository
+
 (2) pmkt3: contains code copied from pmtk3.googlecode.com, which I made some modifications for adding noise to moments
+
 (3) matfiles: once you run my code, the results will be saved here.
+
 
 I wrote code for test lifescience data and Gowalla data in Matlab, while my code for DP factor analysis is written in Python.
 
