@@ -4,6 +4,7 @@ Hi, thanks for your interests in our DPEM paper!
 Our paper was published at AISTATS 2017, which you can find http://proceedings.mlr.press/v54/park17c.html
 
 This code package consists of several folders
+
 (1) data: which contains Gowalla / lifescience datasets, which are from UCI data repository
 
 (2) pmkt3: contains code copied from pmtk3.googlecode.com, which I made some modifications for adding noise to moments
